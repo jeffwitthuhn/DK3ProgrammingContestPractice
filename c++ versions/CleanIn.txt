@@ -1,0 +1,37 @@
+Uecker 15 150 
+Ruth 50 150 
+Canseco 45 150 
+Beltre 55 150 
+Cruz 44 150 
+Kinsler 51 150 
+Andrus 40 150 
+Moreland 35 150 
+Darvish 10 150 
+0 10
+5 10 
+0 10 
+0 10 
+5 10 
+9 10 
+5 10 
+5 10 
+1 10 
+
+Johnson 10 100
+Harold 20 80
+Nelson 30 100
+Cruz 31 100
+Bonds 12 100
+Aaron 20 120
+Sosa 31 110
+Ruth 15 80
+Ryan 5 100
+5 10
+2 12
+10 10
+8 10
+0 20
+3 15
+2 9
+3 16
+10 10

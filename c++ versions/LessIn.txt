@@ -1,0 +1,16 @@
+Paris London 300
+London Boston 1800
+Boston Quebec 900
+Dallas Houston 200
+Paris Quebec 0
+Moscow Madrid 2000
+Paris Quebec 3000
+Paris Madrid 800
+Paris Moscow 3000
+Paris Moscow 0
+
+Moscow Madrid 2000
+Paris Quebec 3000
+Paris Madrid 800
+Paris Moscow 3000
+Paris Moscow 0

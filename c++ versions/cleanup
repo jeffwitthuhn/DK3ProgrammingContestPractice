@@ -1,0 +1,31 @@
+//example problem 7
+#include <fstream>
+#include <iostream>
+#include <vector> 
+#include <string>
+using namespace std; 
+struct player{
+	string name; 
+	int hits; 
+	int bats;
+	double average; 
+};
+int main(){
+	ifstream infile("CleanIn.txt"); 
+	ofstream outfile("CleanOut.txt"); 
+	for(int z=0; z<2; z++){
+		vector<player> players;
+		players.resize(9);
+		for(int i=0; i<9; i++){
+			infile>>players[i].name>>players[i].hits>>players[i].bats;
+		}
+		int hits, bats; 
+		for(int i=0; i<9; i++){
+			infile>>hits>>bats;
+			players[i].hits+=hits;
+			players[i].bats+=bats;
+			players[i].average=((double)players[i].hits)/players[i].bats;
+		}
+	}
+	return 0;
+}
